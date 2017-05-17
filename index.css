@@ -1,0 +1,61 @@
+
+
+#herohud {position: absolute; left: 0; top: 0; width: 100%;}
+
+#hero img {width: 100%; z-index: -1; position: relative;}
+
+
+#logo {width: 100%; font-family: 'Signika', sans-serif; color: pink; font-weight: 700; text-align: center; font-size: 5vw;}
+
+
+
+#upcomingshows ol {color: whitesmoke; background-color: rgba(0, 0, 255, .2); font-family: 'Taviraj', serif; font-size: 1vw; font-weight: 300; height: 27vw; text-shadow: 0px 0px 3px black;}
+
+#upcomingshows h2 {font-weight: 600; background-color: rgba(0,0 ,255,.2); color: whitesmoke; font-size: 1.2vw; text-shadow: 0px 0px 3px black;}
+
+
+#upcomingshows h1 {font-weight: 600;}
+
+#padding {padding-left: 5%; padding-right: 5%; padding-top: 1vw;}
+
+#navigation li {display: inline-block; width: 14.285%; font-family: 'Signika', sans-serif; color: pink; font-weight: 300; font-size: 1.6vw;}
+#navigation li a {display: block; color: antiquewhite; text-decoration: none;}
+
+audio {width: 100%;}
+
+#audioplayer {height: 2.8vw; background-color: rebeccapurple;}
+
+
+
+#blog {position: relative; bottom: 10vw;}
+
+#blogtitle {height: 100%; font-size: 4vw; text-align: center; background-color: pink; font-family: 'Signika', sans-serif; font-weight: 600; border-top: 10px solid pink; border-top-left-radius: 20px; border-top-right-radius: 20px;}
+#navigation2 li {display: inline-block; width: 14.285%; font-family: 'Signika', sans-serif; color: pink; font-weight: 100; font-size: 1.7vw;}
+#navigation2 li a {display: block; color: pink; text-decoration: none; background-color: green;}
+#navigation2 li a:hover {background-color: red;}
+
+#stuff {background-color: white; height: 100vh}
+
+#morenews {background-color: rgba(0,255,0,.2); color: whitesmoke; font-family: 'Taviraj', serif; font-size: 1vw; font-weight: 300; margin-top: 1vw; text-shadow: 0px 0px 3px black;}
+
+#morenews h1 {font-weight: 600; font-size: 1.2vw;}
+
+#leftcolumn {background-color: gray; border-top-left-radius: 20px;}
+
+#stuff {background-color: yellow;}
+
+#audioplayer2  {width: 16.5vw; background-color: rebeccapurple; position: sticky; border-radius: 20px; height: auto; position: fixed; bottom: 0%; right: 0%}
+
+
+#rightcolumn {height: 100vh; background-color:gray; border-top-right-radius: 20px;}
+
+#stuff h1 {font-family: 'Signika', sans-serif; font-size: 2.5vw; font-weight: 500;}
+
+#dateline h2, h3, h4 {width: 33.333%; display: inline-block; font-size: 1vw;}
+
+#dateline h3, h4 {text-align: right;}
+
+#leftcolumn, #stuff, #rightcolumn p, h2, h3, h4, h5, h6 {font-family: 'Taviraj', serif;}
+
+#stuff p {font-size: 1.3vw;}
+

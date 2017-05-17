@@ -1,0 +1,8 @@
+#audioplayer2 .list-song .player-song-name, #audioplayer2 .list-song .player-song-description{
+	display:block;
+}
+#player-songs-list li{
+	margin-top:5px;
+	margin-bottom:5px;
+	cursor:pointer;
+}
